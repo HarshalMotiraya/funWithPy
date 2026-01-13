@@ -12,3 +12,9 @@
 - Functions , modules , classes  
 - Implementation-related types : Compiled code , stack tracebacks 
 - Advance : Decorators ,  Generators ,Iterators , MetaProgrammming 
+
+
+
+array = list same as in pyhton ex. mylist = []
+
+dictonary =   ex . myD = {'one':'lemon' , 'two':'ginger', 'three':'comictea'  }
